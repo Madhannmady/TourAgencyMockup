@@ -1,4 +1,4 @@
-# TourAgencyMockup
+# TourAgencyMockup-A Sample project for demonstrating layout responsiveness.
 
 ![SampleScreenshot](https://github.com/Madhannmady/TourAgencyMockup/assets/123820592/f9624f13-a917-41db-8708-0764ad14ebce)
 
