@@ -80,13 +80,13 @@ h1 {
 }
 
 .hero {
-  color: white;
+  color: black;
   height: 90vh;
   animation: moveDown 1s ease-in-out forwards;
   opacity: 0;
 }
 .hero .down-arrow {
-  stroke: white;
+  stroke: black;
   position: absolute;
   bottom: 2em;
   width: 1em;
@@ -94,7 +94,7 @@ h1 {
   animation: moveArrow 1s alternate-reverse infinite;
 }
 .hero .down-arrow path {
-  fill: white;
+  fill: black;
 }
 
 .more-info img {
